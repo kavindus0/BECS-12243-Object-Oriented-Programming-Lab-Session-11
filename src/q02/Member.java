@@ -1,6 +1,8 @@
 package q02;
 
+// Parent class Member
 public class Member {
+    // Data members
     private String name;
     private int age;
     private String phoneNumber;
