@@ -15,6 +15,7 @@ public class Account {
         this.balance +=amount;
     }
     public void displayAccountDetails() {
+        System.out.println("-----");
         System.out.println(accountNumber);
         System.out.println(accountHolderName);
         System.out.println(balance);
