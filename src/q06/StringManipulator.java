@@ -2,6 +2,9 @@ package q06;
 
 public class StringManipulator {
     public String reverse(String s){
+        StringBuffer sbf = new StringBuffer(s);
+
+        sbf.reverse();
 
         return s;
     }
