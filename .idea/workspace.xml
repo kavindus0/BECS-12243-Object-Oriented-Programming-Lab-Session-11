@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22c72491-0cea-4d12-9db9-9f888e849ed1" name="Changes" comment="constructor and method added" />
+    <list default="true" id="22c72491-0cea-4d12-9db9-9f888e849ed1" name="Changes" comment="classes added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -308,7 +308,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add interest final value" />
     <MESSAGE value="modified feild" />
     <MESSAGE value="reformatted" />
     <MESSAGE value="new class created" />
@@ -333,7 +332,8 @@
     <MESSAGE value="constructer created" />
     <MESSAGE value="temp classes added" />
     <MESSAGE value="constructor and method added" />
-    <option name="LAST_COMMIT_MESSAGE" value="constructor and method added" />
+    <MESSAGE value="classes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
