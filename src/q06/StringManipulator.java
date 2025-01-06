@@ -1,6 +1,12 @@
 package q06;
 
 public class StringManipulator {
+    public static void main(String[] args) {
+        StringManipulator str = new StringManipulator();
+        System.out.println(str.reverse("HelloWorld"));
+        System.out.println(str.reverse("HelloWorld",3));
+        System.out.println(str.reverse("HelloWorld",2,9));
+    }
     public String reverse(String s){
         StringBuffer sbf = new StringBuffer(s);
 
