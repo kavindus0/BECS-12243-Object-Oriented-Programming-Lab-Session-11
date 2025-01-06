@@ -14,15 +14,20 @@ public class StringManipulator {
 
         return s;
     }
-    // – Reverses a string.
-           public String reverse(String s, int n){
-
-               return s;
-           }
+    public String reverse(String s, int n){
+        StringBuffer sbf3 = new StringBuffer(s);
+        String subs = sbf3.substring(0,n);
+        StringBuffer sbst = new StringBuffer(subs);
+        sbst.reverse();
+        return subs;
+    }
     // – Reverses the first n characters of a string.
     public String reverse(String s, int start, int end){
-
-        return s;
+        StringBuffer sbf3 = new StringBuffer(s);
+        String subs = sbf3.substring(start,end);
+        StringBuffer sbst = new StringBuffer(subs);
+        sbst.reverse();
+        return subs;
     }
     //– Reverses a substring
 }
