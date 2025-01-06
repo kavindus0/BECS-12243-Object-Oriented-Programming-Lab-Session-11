@@ -11,11 +11,11 @@ public class CurrentAccount extends Account{
     }
 
     public void withdraw(double amount){
-        if (amount >= super.balance && amount<=creditLimit){
+        if (amount<=creditLimit){
             System.out.println("Withrawn Successfully "+amount);
             super.balance-=amount;
         } else {
-            System.out.println("Unavailable RN");
+            System.out.println("Credit Ammount Exceded");
         }
         
     }
