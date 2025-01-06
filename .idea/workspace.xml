@@ -1,32 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="22c72491-0cea-4d12-9db9-9f888e849ed1" name="Changes" comment="" />
+    <list default="true" id="22c72491-0cea-4d12-9db9-9f888e849ed1" name="Changes" comment="string reversed using buffer">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/q06/StringManipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q06/StringManipulator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2rFK3Lyep49A3w4gfvddJC8tvjC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="q05" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="22c72491-0cea-4d12-9db9-9f888e849ed1" name="Changes" comment="" />
       <created>1736149185372</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736149185372</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1736149230313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736149230313</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Addition Class created for Calculator">
+      <created>1736149636432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736149636432</updated>
+    </task>
+    <task id="LOCAL-00003" summary="override add methods">
+      <created>1736151722453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736151722453</updated>
+    </task>
+    <task id="LOCAL-00004" summary="override Division.java">
+      <created>1736151739190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736151739190</updated>
+    </task>
+    <task id="LOCAL-00005" summary="override Substraction">
+      <created>1736151749951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736151749951</updated>
+    </task>
+    <task id="LOCAL-00006" summary="main method created">
+      <created>1736151760280</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736151760280</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new code addded">
+      <created>1736151970554</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736151970554</updated>
+    </task>
+    <task id="LOCAL-00008" summary="devision repaired">
+      <created>1736151979907</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736151979907</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new class created">
+      <created>1736152090972</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736152090972</updated>
+    </task>
+    <task id="LOCAL-00010" summary="string reversed using buffer">
+      <created>1736152421006</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736152421006</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <MESSAGE value="Addition Class created for Calculator" />
+    <MESSAGE value="override add methods" />
+    <MESSAGE value="override Division.java" />
+    <MESSAGE value="override Substraction" />
+    <MESSAGE value="main method created" />
+    <MESSAGE value="new code addded" />
+    <MESSAGE value="devision repaired" />
+    <MESSAGE value="new class created" />
+    <MESSAGE value="string reversed using buffer" />
+    <option name="LAST_COMMIT_MESSAGE" value="string reversed using buffer" />
   </component>
 </project>
