@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22c72491-0cea-4d12-9db9-9f888e849ed1" name="Changes" comment="temp classes added">
-      <change afterPath="$PROJECT_DIR$/src/q02/Member.java" afterDir="false" />
-    </list>
+    <list default="true" id="22c72491-0cea-4d12-9db9-9f888e849ed1" name="Changes" comment="temp classes added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -309,9 +307,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new method body created" />
-    <MESSAGE value="path created" />
-    <MESSAGE value="reformatted the code" />
     <MESSAGE value="super class created" />
     <MESSAGE value="sub classes created" />
     <MESSAGE value="new attributes Added" />
@@ -333,6 +328,9 @@
     <MESSAGE value="temp" />
     <MESSAGE value="method sign changed" />
     <MESSAGE value="New codes added" />
+    <MESSAGE value="Employee class created" />
+    <MESSAGE value="Sub class created" />
+    <MESSAGE value="Member class created" />
     <MESSAGE value="temp classes added" />
     <option name="LAST_COMMIT_MESSAGE" value="temp classes added" />
   </component>
