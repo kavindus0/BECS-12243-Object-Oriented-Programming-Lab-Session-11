@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22c72491-0cea-4d12-9db9-9f888e849ed1" name="Changes" comment="temp classes added">
-      <change afterPath="$PROJECT_DIR$/src/q02/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q02/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q02/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q02/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q02/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q02/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q02/Member.java" afterDir="false" />
-    </list>
+    <list default="true" id="22c72491-0cea-4d12-9db9-9f888e849ed1" name="Changes" comment="constructor and method added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -314,13 +308,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="super class created" />
-    <MESSAGE value="sub classes created" />
-    <MESSAGE value="new attributes Added" />
-    <MESSAGE value="new methods Added" />
-    <MESSAGE value="refactor the code" />
-    <MESSAGE value="new methods added" />
-    <MESSAGE value="new methods and test cases added" />
     <MESSAGE value="add interest final value" />
     <MESSAGE value="modified feild" />
     <MESSAGE value="reformatted" />
@@ -338,8 +325,15 @@
     <MESSAGE value="Employee class created" />
     <MESSAGE value="Sub class created" />
     <MESSAGE value="Member class created" />
+    <MESSAGE value="test data added for MAin class" />
+    <MESSAGE value="print details method created" />
+    <MESSAGE value="Constructor added" />
+    <MESSAGE value="comment removed" />
+    <MESSAGE value="print detais added" />
+    <MESSAGE value="constructer created" />
     <MESSAGE value="temp classes added" />
-    <option name="LAST_COMMIT_MESSAGE" value="temp classes added" />
+    <MESSAGE value="constructor and method added" />
+    <option name="LAST_COMMIT_MESSAGE" value="constructor and method added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
