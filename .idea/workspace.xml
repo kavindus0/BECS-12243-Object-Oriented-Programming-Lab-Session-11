@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22c72491-0cea-4d12-9db9-9f888e849ed1" name="Changes" comment="temp classes added" />
+    <list default="true" id="22c72491-0cea-4d12-9db9-9f888e849ed1" name="Changes" comment="temp classes added">
+      <change afterPath="$PROJECT_DIR$/src/q02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/q02/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q02/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/q02/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q02/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/q02/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q02/Member.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +79,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="q02" />
       <recent name="q03" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
