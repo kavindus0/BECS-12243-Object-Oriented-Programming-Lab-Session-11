@@ -9,9 +9,7 @@ public class StringManipulator {
     }
     public String reverse(String s){
         StringBuffer sbf = new StringBuffer(s);
-
         sbf.reverse();
-
         return s;
     }
     public String reverse(String s, int n){
@@ -21,7 +19,7 @@ public class StringManipulator {
         sbst.reverse();
         return subs;
     }
-    // – Reverses the first n characters of a string.
+
     public String reverse(String s, int start, int end){
         StringBuffer sbf3 = new StringBuffer(s);
         String subs = sbf3.substring(start,end);
