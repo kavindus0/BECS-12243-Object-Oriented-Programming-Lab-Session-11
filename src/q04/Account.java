@@ -19,6 +19,8 @@ public class Account {
         System.out.println(accountNumber);
         System.out.println(accountHolderName);
         System.out.println(balance);
+        System.out.println("-----");
+
     }
 
 }
