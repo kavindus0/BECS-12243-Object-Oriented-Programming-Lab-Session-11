@@ -1,7 +1,5 @@
 package q03;
 
-import java.util.Arrays;
-
 public class Student extends User {
     public static void main(String[] args) {
         Student std = new Student();
