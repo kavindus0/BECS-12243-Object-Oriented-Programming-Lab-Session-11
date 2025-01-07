@@ -7,13 +7,9 @@ public class Student extends User {
         super(name, userID);
         this.enrolledCourses = enrolledCourses;
     }
-    void viewCourses(){
-        String Courses[] = new String[] {"Course01","Course02"};
-        System.out.printf("Enrolled Courses : ");
-        for (int i = 0; i < Courses.length; i++) {
-            System.out.printf(Courses[i]);
-            System.out.printf(", ");
-        }
+
+    public void viewCourses() {
+        System.out.println("Enrolled Courses: " + String.join(", ", enrolledCourses));
     }
 
 }
