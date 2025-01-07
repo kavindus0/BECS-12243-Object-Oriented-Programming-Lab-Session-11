@@ -11,5 +11,4 @@ public class Student extends User {
     public void viewCourses() {
         System.out.println("Enrolled Courses: " + String.join(", ", enrolledCourses));
     }
-
 }
